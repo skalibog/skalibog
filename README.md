@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edward Skalibog</h1>
-<h3 align="center">A passionate fullstack developer from Ukraine.</h3>
+<h3 align="center">a 27-year-old Full Stack Developer from Ukraine. Specializing in Ruby on Rails, Vue.js, Nuxt.js, and more, Edward brings a unique blend of backend robustness and frontend elegance to every project. With a passion for innovation and a commitment to staying on the cutting edge, he is dedicated to transforming ideas into seamless, user-centric digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skalibog&label=Profile%20views&color=0e75b6&style=flat-square" alt="skalibog" /> </p>
 
@@ -35,6 +35,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/skalibog"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skalibog" /></a></p><br><br>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skalibog&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="skalibog" /></p>
 
