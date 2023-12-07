@@ -1,4 +1,4 @@
-### Hi there 👋
+### Meet Edward, a 27-year-old Full Stack Developer from Ukraine. Specializing in Ruby on Rails, Vue.js, Nuxt.js, and more, Edward brings a unique blend of backend robustness and frontend elegance to every project. With a passion for innovation and a commitment to staying on the cutting edge, he is dedicated to transforming ideas into seamless, user-centric digital experiences. 👋
 
 <!--
 **skalibog/skalibog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
